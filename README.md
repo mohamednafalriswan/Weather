@@ -1,4 +1,5 @@
 # Weather
+https://mohamednafalriswan.github.io/Weather/
 
 ## Overview
 
@@ -26,5 +27,5 @@ Make sure to replace the placeholder API key in the `script.js` file with your o
 
 ## Acknowledgments
 
-- Weather data provided by [Weather API Provider](https://example.com/weather-api)
+- Weather data provided by open weather map app
   
