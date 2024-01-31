@@ -27,5 +27,5 @@ Make sure to replace the placeholder API key in the `script.js` file with your o
 
 ## Acknowledgments
 
-- Weather data provided by open weather map app
+- Weather data provided by  openweathermap.org
   
