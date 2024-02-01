@@ -3,7 +3,7 @@ https://mohamednafalriswan.github.io/Weather/
 
 ## Overview
 
-This simple weather app provides users with current weather information based on their location.
+This simple weather app dashboard provides users with current weather information based on the location.
 
 ## Features
 
